@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Excel, Python, Analytics, Business Acumen**
 
-- 📫 How to reach me **connect.yashwanthmahendra@gmail.com**
+- 📫 How to reach me **connectyashmahendr@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
